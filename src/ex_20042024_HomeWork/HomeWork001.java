@@ -1,4 +1,4 @@
-package Homework_20042024;
+package ex_20042024_HomeWork;
 
 public class HomeWork001 {
     public static void main(String[] args) {
@@ -10,7 +10,6 @@ public class HomeWork001 {
         int max_2 = max_1>c ? max_1 :c;
 
         System.out.println("The Max value is: " +max_2);
-
 
     }
 }

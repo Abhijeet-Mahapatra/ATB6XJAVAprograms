@@ -1,4 +1,4 @@
-package Homework_20042024;
+package ex_20042024_HomeWork;
 
 public class HomeWork003 {
     public static void main(String[] args) {

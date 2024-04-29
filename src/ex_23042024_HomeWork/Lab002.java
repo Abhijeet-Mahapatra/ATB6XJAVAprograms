@@ -10,9 +10,9 @@ public class Lab002 {
         int number2 = scanner.nextInt();
         int number3 = scanner.nextInt();
 
-        if (number1 > number2 && number1 > number3){
+        if (number1 >= number2 && number1 >= number3){
             System.out.println("The Largest number is: " +number1);
-        } else if (number2 > number1 && number2 > number3) {
+        } else if (number2 >= number1 && number2 >= number3) {
             System.out.println("The Largest number is: " +number2);
         } else {
             System.out.println("The Largest number is: " +number3);
